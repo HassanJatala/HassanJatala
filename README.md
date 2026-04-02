@@ -82,6 +82,7 @@
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/HassanJatala
 - 📧 Email: hassanjatala.2006@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-hassan-jatala/
 
 ---
 
