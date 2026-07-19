@@ -7,17 +7,13 @@
 - 🎓 BS Student (Artificial Intelligence)
 - 🤖 Passionate about **Artificial Intelligence & Neural Networks**
 - 🧠 Currently working on:
-  - ANN & Deep Learning Projects (CIFAR-10, NLP)
-  - PyTorch-based models
+  - Computer Vision 
+  - ANN & Deep Learning Projects
 - 📊 Interested in:
   - Machine Learning
   - Data Science
   - Computer Vision
-- 🧩 Strong foundation in:
-  - Machine Learning
-  - Computer Vision
-  - Automations
-
+
 ---
 
 ## 🛠️ Tech Stack
@@ -48,18 +44,16 @@
 
 ## 📌 Projects
 
-### 🔹 CIFAR-10 Image Classification
-- Built ANN with 5 hidden layers
-- Trained model with multiple epochs (30, 50, 100)
-- Used PyTorch & DataLoader
+* Personal Protective Equipment (PPE) Detection System
 
-### 🔹 Sentiment Analysis System
-- Text classification using ML techniques
-- Data preprocessing + feature extraction
+* NLP Sentiment Analysis System
 
-### 🔹 Neural Network Implementations
-- Sigmoid, Softmax, Backpropagation
-- Custom ANN models from scratch
+* Diabetes Prediction Model
+
+* Virtual Keyboard with Hand Sign Detection 
+
+* Vehicle Counter using Yolov8
+
 
 ---
 
@@ -83,8 +77,4 @@
 - 💼 GitHub: https://github.com/HassanJatala
 - 📧 Email: hassanjatala.2006@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-hassan-jatala/
-
----
-
-## ⚡ Fun Fact
-I love solving complex real world problems using AI and turning ideas into real-world applications 🚀
+
