@@ -68,13 +68,6 @@
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HassanJatala&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/HassanJatala
 - 📧 Email: hassanjatala.2006@gmail.com
