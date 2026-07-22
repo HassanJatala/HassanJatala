@@ -1,19 +1,21 @@
-﻿<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
+﻿<h1 align="center">Hi, I'm Muhammad Hassan</h1>
 <h3 align="center">AI Enthusiast | Machine Learning | Deep Learning | Computer Vision</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 BS Student (Artificial Intelligence)
-- 🤖 Passionate about **Artificial Intelligence & Neural Networks**
+- 🤖 Passionate about **Artificial Intelligence**
 - 🧠 Currently working on:
   - Computer Vision 
-  - ANN & Deep Learning Projects
+  - ANN & Deep Learning
+
 - 📊 Interested in:
   - Machine Learning
   - Data Science
   - Computer Vision
-
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -77,4 +79,5 @@
 - 💼 GitHub: https://github.com/HassanJatala
 - 📧 Email: hassanjatala.2006@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-hassan-jatala/
-
+
+
